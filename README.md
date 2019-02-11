@@ -14,8 +14,8 @@ The application is deployed in Github Pages. It can be accessed in: https://lsmu
 ### How to run locally
 
 ### Requirements for execution
-- [Node.js](https://www.oracle.com/technetwork/java/javase/downloads/index.html)
-- [NPM](http://maven.apache.org/download.cgi)
+- [Node.js](https://nodejs.org/en/)
+- NPM (Comes with Node.js installation)
 
 ### Steps
 - After properly installing the requirements, clone this repository (master branch) to a folder on your computer.
